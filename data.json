@@ -1,0 +1,16 @@
+[
+   {
+      "id": 1,
+      "name": "Red Calibber",
+      "year": 2015,
+      "type": "Red",
+      "createdAt": "2022-7-10T07:50:03.912Z"
+   },
+   {
+      "id": 2,
+      "name": "jagoan rename",
+      "year": null,
+      "type": "Other",
+      "createdAt": "2022-07-24T12:33:03.906Z"
+   }
+]
